@@ -1,0 +1,7 @@
+pydantic==2.12.5
+pydantic-settings==2.10.1
+fastapi==0.135.1
+uvicorn==0.35.0
+Requests==2.32.5
+httpx==0.28.1
+pytest==8.4.1
