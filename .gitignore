@@ -9,6 +9,9 @@ __pycache__/
 #data
 data/
 
+#bat files
+.bat
+
 # Distribution / packaging
 .Python
 build/
